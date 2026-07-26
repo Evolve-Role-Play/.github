@@ -1,3 +1,2 @@
-## • Evolve Role Play Dev. github group
-
-A group with all development repositories Evolve Role Play
+## • Evolve Role Play Development github group
+with all development repositories Evolve Role Play
